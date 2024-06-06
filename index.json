@@ -1,0 +1,63 @@
+[
+    {
+      "team": "Chennai Super Kings",
+      "abbreviation": "CSK",
+      "city": "Chennai",
+      "home_stadium": "M. A. Chidambaram Stadium"
+    },
+    {
+      "team": "Delhi Capitals",
+      "abbreviation": "DC",
+      "city": "Delhi",
+      "home_stadium": "Arun Jaitley Stadium"
+    },
+    {
+      "team": "Kolkata Knight Riders",
+      "abbreviation": "KKR",
+      "city": "Kolkata",
+      "home_stadium": "Eden Gardens"
+    },
+    {
+      "team": "Mumbai Indians",
+      "abbreviation": "MI",
+      "city": "Mumbai",
+      "home_stadium": "Wankhede Stadium"
+    },
+    {
+      "team": "Punjab Kings",
+      "abbreviation": "PBKS",
+      "city": "Mohali",
+      "home_stadium": "Punjab Cricket Association IS Bindra Stadium"
+    },
+    {
+      "team": "Rajasthan Royals",
+      "abbreviation": "RR",
+      "city": "Jaipur",
+      "home_stadium": "Sawai Mansingh Stadium"
+    },
+    {
+      "team": "Royal Challengers Bangalore",
+      "abbreviation": "RCB",
+      "city": "Bangalore",
+      "home_stadium": "M. Chinnaswamy Stadium"
+    },
+    {
+      "team": "Sunrisers Hyderabad",
+      "abbreviation": "SRH",
+      "city": "Hyderabad",
+      "home_stadium": "Rajiv Gandhi International Cricket Stadium"
+    },
+    {
+      "team": "Lucknow Super Giants",
+      "abbreviation": "LSG",
+      "city": "Lucknow",
+      "home_stadium": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium"
+    },
+    {
+      "team": "Gujarat Titans",
+      "abbreviation": "GT",
+      "city": "Ahmedabad",
+      "home_stadium": "Narendra Modi Stadium"
+    }
+  ]
+  
